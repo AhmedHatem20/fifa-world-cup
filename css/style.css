@@ -1,0 +1,44 @@
+
+
+.icon , .demo{
+    background-color: rebeccapurple;
+    color: white;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    font-family: 'Rubik 80s Fade', cursive;
+}
+.demo{
+    background-color: red;
+}
+
+
+.fa-facebook{
+    margin-right: 10px;
+    background-color: #00f;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 40px;
+}
+
+
+.content{
+    margin: auto;
+    width: 50%;
+    background-color: #00f;
+    color:#fff;
+    padding: 20px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+#intro-example {
+    height: 400px;
+  }
+
+  /* Height for devices larger than 992px */
+  @media (min-width: 992px) {
+    #intro-example {
+      height: 600px;
+    }
+  }
